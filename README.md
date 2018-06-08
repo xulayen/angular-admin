@@ -13,3 +13,5 @@ go to the app root
 >npm start
 
 ```
+
+https://github.com/xulayen/angular-admin/blob/master/src/t1.jpg
