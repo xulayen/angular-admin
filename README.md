@@ -14,4 +14,3 @@ go to the app root
 
 ```
 
-https://github.com/xulayen/angular-admin/blob/master/src/t1.jpg
