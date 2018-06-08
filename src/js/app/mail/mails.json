@@ -1,0 +1,22 @@
+﻿{
+  "mails":[
+    {
+      "id": 10,
+      "subject": "中商产品手册汇编所需技术部方案及资料支持",
+      "from": "jason.yang@yesno.com.cn",
+      "avatar": "img/a10.jpg",
+      "to":[
+        {"name":"徐大腿", "email":"xudatui@yesno.com.cn"},
+		{"name":"王麻子", "email":"wangmazi@yesno.com.cn"}
+      ],
+      "content":"各位技术部同事，上午好，辛苦大家看看手头上是否有以下产品的方案或相关资料，有的话烦请发我一下。用以整理汇编咱们中商的产品手册。谢谢。",
+      "attach":[
+        {"name":"c1.jpg", "url":"img/c1.jpg"},
+        {"name":"c3.jpg", "url":"img/c3.jpg"}
+      ],
+      "date":"2018年6月8日 11:22:04",
+      "label":"project",
+      "fold":"中商"
+    }
+  ]
+}
